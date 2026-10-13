@@ -61,6 +61,7 @@
 
     ```bash
     conda install cuda-toolkit=12.8 cuda-nvcc=12.8 -c nvidia
+    pip install git+https://github.com/openai/CLIP.git
 
     pip install -r requirements.txt
 
